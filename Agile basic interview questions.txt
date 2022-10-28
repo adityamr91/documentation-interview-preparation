@@ -2,7 +2,7 @@ Agile Interview Basics
 
 10 working Day 1 Sprint, 8 story points per day
 
-**FDD (Feature-Driven Development):** It generally involves creating software models every two weeks and also needs development and design for each and every model feature. It is basically a lightweight iterative and incremental software development process whose main purpose is to deliver stable and working software on time.  
+FDD (Feature-Driven Development): It generally involves creating software models every two weeks and also needs development and design for each and every model feature. It is basically a lightweight iterative and incremental software development process whose main purpose is to deliver stable and working software on time.  
 
 1.	Product owner creates JIRA Stories for features , product owner has access to customers and cannot become scrum master
 2.	Scrum master facilitates 
@@ -19,7 +19,7 @@ Agile Interview Basics
 	•	what was done yesterday and what is the plan for today.
 	•	Stay organized
 
-**Iterative Development:** It is basically a software development process where software development cycles (sprint and releases) are repeated until the final product is obtained. On the basis of feedback from customers or users, the product is again developed in cycles or releases and sprints i.e., adding new functionality in a repetitive manner. 
+Iterative Development: It is basically a software development process where software development cycles (sprint and releases) are repeated until the final product is obtained. On the basis of feedback from customers or users, the product is again developed in cycles or releases and sprints i.e., adding new functionality in a repetitive manner. 
 
 Advantages of Scrum 
 	•	Releases product quickly to users and customers 
