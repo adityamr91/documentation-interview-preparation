@@ -77,27 +77,30 @@
 63.	Springboot actuator<br />
 64.	Pom.xml<br />
 65.	What if pom imports same types of library from 2 types of imported artifact<br />
+66.	@Profile<br />
+67.	@ControllerAdvise<br />
+68.	Spring-data-jpa<br />
 
 **D.	DB related**
 
-66.	What is indexing<br />
-67.	Self join and all other joins<br />
-68.	Interchange 2 columns data<br />
-69.	Roundoff, case statement date and time api<br />
+69.	What is indexing<br />
+70.	Self join and all other joins<br />
+71.	Interchange 2 columns data<br />
+72.	Roundoff, case statement date and time api<br />
 
 **E.	Performance**
 
-70.	Pagination<br />
-71.	Java memory management<br />
-72.	Garbage collector<br />
-73.	Db indexing<br />
-74.	Lazy loading<br />
-75.	Browser speed, browser memory<br />
-76.	Load balancer and backup<br />
-77.	System 1 dependent on System 2 and vice versa but it should not stall, but parallel process<br />
-78.	How to process or read huge volume of data efficiently on the UI<br />
-79.	How to read  huge volume of data and display on UI<br />
-80.	On UI let say a drop down selection will load another drop down (with help of backend call) after some time will you load again?
+73.	Pagination<br />
+74.	Java memory management<br />
+75.	Garbage collector<br />
+76.	Db indexing<br />
+77.	Lazy loading<br />
+78.	Browser speed, browser memory<br />
+79.	Load balancer and backup<br />
+80.	System 1 dependent on System 2 and vice versa but it should not stall, but parallel process<br />
+81.	How to process or read huge volume of data efficiently on the UI<br />
+82.	How to read  huge volume of data and display on UI<br />
+83.	On UI let say a drop down selection will load another drop down (with help of backend call) after some time will you load again?
 
 # Full Stack Project Technologies
 
