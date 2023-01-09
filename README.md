@@ -20,7 +20,7 @@
 12.	SOLID design principle
 13.	Exception handling – single catch block to handle multiple exceptions and which java version is it
 14.	Try with resources
-15.	Final, finalze vs finally
+15.	final, finalze() vs finally{..}
 16.	Final on class, methods and a variable
 17.	Stack overflow error, memory leak, java min-max, heap memory
 18.	Runtime error vs. compile time error
