@@ -77,7 +77,7 @@
 63.	Springboot actuator<br />
 64.	Pom.xml<br />
 65.	What if pom imports same types of library from 2 types of imported artifact<br />
-66.	@Profile<br />
+66.	@Profile & @PreAuthorized<br />
 67.	@ControllerAdvise<br />
 68.	Spring-data-jpa<br />
 
