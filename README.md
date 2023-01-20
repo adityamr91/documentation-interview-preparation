@@ -105,7 +105,7 @@
 # Full Stack Project Technologies
 
 **Base**<br />
-1.	Front End : Angular, ReactJs, Vue.js<br />
+1.	Front End : Angular, ReactJs, Vue.js, html & javaScript<br />
 2.	Core Programming : Java, Python, .Net<br />
 3.	Back End Frameworks : Springboot, SpringMVC<br />
 4.	Back end to DB Connection (Persistence Layer) : JDBC, Hibernate, MyBatis<br />
