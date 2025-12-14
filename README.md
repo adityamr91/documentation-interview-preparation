@@ -127,6 +127,72 @@
 5.	Database  Server & DB : MS SQL Server <br />
 6.	Messaging & Queuing : Kafka <br />
 
+# Java Collections – Number of Constructors
 
+This document lists the **number of constructors available in major Java Collection Framework classes** (Java 8+ / Java 17 compatible).
 
+---
 
+## List Implementations
+
+### ArrayList
+**Constructors: 3**
+- `ArrayList()`
+- `ArrayList(int initialCapacity)`
+- `ArrayList(Collection<? extends E> c)`
+
+---
+
+### LinkedList
+**Constructors: 2**
+- `LinkedList()`
+- `LinkedList(Collection<? extends E> c)`
+
+---
+
+### Vector
+**Constructors: 4**
+- `Vector()`
+- `Vector(int initialCapacity)`
+- `Vector(int initialCapacity, int capacityIncrement)`
+- `Vector(Collection<? extends E> c)`
+
+---
+
+### Stack (extends Vector)
+**Constructors: 0 (inherits Vector constructors)**
+
+---
+
+## Set Implementations
+
+### HashSet
+**Constructors: 4**
+- `HashSet()`
+- `HashSet(Collection<? extends E> c)`
+- `HashSet(int initialCapacity)`
+- `HashSet(int initialCapacity, float loadFactor)`
+
+---
+
+### LinkedHashSet
+**Constructors: 4**
+- `LinkedHashSet()`
+- `LinkedHashSet(Collection<? extends E> c)`
+- `LinkedHashSet(int initialCapacity)`
+- `LinkedHashSet(int initialCapacity, float loadFactor)`
+
+---
+
+### TreeSet
+**Constructors: 4**
+- `TreeSet()`
+- `TreeSet(Comparator<? super E> comparator)`
+- `TreeSet(Collection<? extends E> c)`
+- `TreeSet(SortedSet<E> s)`
+
+---
+
+### EnumSet
+**No public constructors**
+- Created using factory methods:
